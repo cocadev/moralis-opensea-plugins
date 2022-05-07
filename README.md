@@ -1,4 +1,4 @@
-# Moralis OpenSea Plugins 2
+# Moralis OpenSea Plugins 3
 
 This repository contains the code for the [Moralis OpenSea Youtube tutorial](https://www.youtube.com/watch?v=r2YFhfjIb3k&t=35s). It is a simple implementation of an NFT Marketplace dApp using React framework, mainly to showcase the simplicity of using Moralis OpenSea Plugin.
 
